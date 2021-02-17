@@ -41,7 +41,7 @@ let query = posts::table
 
 Which results in the SQL query,
 
-```rust
+```sql
 SELECT
   `posts`.`title`
  FROM (`posts`
