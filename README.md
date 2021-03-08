@@ -2,6 +2,7 @@ Diesel multi-join experiment
 ============================
 
 Previous: https://github.com/pickfire/diesel-update-from
+Next: https://github.com/pickfire/diesel-upsert
 
 After getting footguns in sequelize and gorm, just want to try out diesel and
 state of diesel.
