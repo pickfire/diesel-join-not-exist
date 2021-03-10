@@ -1,5 +1,5 @@
-Diesel multi-join experiment
-============================
+Diesel join not exist experiment
+=========================               =======
 
 Previous: https://github.com/pickfire/diesel-update-from
 Next: https://github.com/pickfire/diesel-upsert
